@@ -1,0 +1,200 @@
+@media  (max-width: 1325px){
+    .logo img {
+      display: inline;
+      bottom: 40px;
+      left: 300px;
+      position: relative;
+    }
+    .buttons {
+      display: inline;
+      position: relative;
+      left: -534px;
+      right: 34px;
+      top: 34px;
+    }
+    .seventh-btn {
+      display: inline;
+      position: relative;
+      left: -8vw;
+    }
+    .second-container .cover-header {
+      position: relative;
+      left: -20px;
+      position: absolute;
+      left: 350px;
+    }
+    .footer-pt4 #pt-1 {
+      width: auto;
+      margin-left: 187px;
+    }
+  }
+  @media  (max-width:500px){
+      html,body{
+          overflow-x: hidden;
+      }
+    .left-nav nav {
+      left: auto;
+      font-size: small;
+      width: 125%;
+    }
+    .left-nav nav span {
+      width: auto;
+      display: inline-flex;
+      position: relative;
+      top: -3vw;
+      left: 16vw;
+    }
+    .left-nav nav ul span img {
+      width: 15px;
+      padding: 1vw;
+      top: -1vw;
+      left: 0vw;
+      position: relative;
+    }
+    .logo img {
+      left: -110px;
+    }
+    .left-btn button {
+      left: 134vw;
+      top: -69px;
+    }
+    .right-btn button {
+      left: 169vw;
+      top: -99px;
+    }
+    .second-container .cover-header {
+      left: auto;
+      width: 102vw;
+      line-height: 6vw;
+      font-size: small;
+    }
+    .second-container .cover-header .button-b1 button {
+      width: 62vw;
+      height: 7vw;
+    }
+    .third-container .pay-btn button {
+      left: 35vw;
+    }
+    .fourth-container img {
+      width: 55vw;
+      height: 51vw;
+      left: 20vw;
+      top: auto;
+    }
+    .fourth-container {
+      height: 100%;
+    }
+    .fourth-container .matter {
+      left: 5vw;
+      top: auto;
+    }
+    .fourth-container .fourth-btn {
+      position: absolute;
+      bottom: -47vw;
+      left: -29vw;
+    }
+    .fourth-container .matter p {
+      position: absolute;
+      top: 14vw;
+    }
+    .fifth-container {
+      height: 100%;
+    }
+    .fifth-container img {
+      width: 55vw;
+      height: 51vw;
+      left: 20vw;
+    }
+    .fifth-container .matter2 {
+      left: 20vw;
+      bottom: -12vw;
+    }
+    .fifth-container .matter2 h5 {
+      width: auto;
+      height: 21vw;
+    }
+    .fifth-container .matter2 h1 {
+      width: auto;
+    }
+    .fifth-container .matter2 button {
+      top: -9vw;
+    }
+    .sixth-container img {
+      width: 50vw;
+      left: 26vw;
+      top: auto;
+    }
+    .sixth-container .matter3 {
+      top: -3vw;
+      left: 9vw;
+      width: 100%;
+    }
+    .sixth-container {
+      height: 100%;
+    }
+    .sixth-container .sixth-btn button {
+      top: -4vw;
+      left: 19vw;
+    }
+    .sixth-container .matter3 h1 {
+      font-size: 6vw;
+      width: 95vw;
+    }
+    .seventh-container .images {
+      left: 10vw;
+    }
+    .eight-container h1 {
+      font-size: larger;
+    }
+    .eight-container .seventh-btn button {
+      left: 23vw;
+      top: 15vw;
+    }
+    .footer-pt1 {
+      left: -35vw;
+      width: 90%;
+      top: 12vw;
+    }
+    .footer-pt2 img {
+      top: 11vw;
+      left: 6vw;
+    }
+    .footer-pt2 ul {
+      left: auto;
+      padding: 10px;
+      font-size: smaller;
+    }
+    .footer-pt3 {
+      width: 100%;
+      left: 0vw;
+    }
+    .bottom-line {
+      left: auto;
+      width: 100%;
+    }
+    .footer-pt3sub1 {
+      font-size: small;
+      left: 0vw;
+      top: 20vw;
+    }
+    .footer-pt4 #pt-1 {
+      padding: 0vw;
+      position: relative;
+      bottom: -8vw;
+      left: -33vw;
+      width: 99%;
+      font-size: small;
+      color: gray;
+    }
+  
+    .footer-pt4 p#pt-2 {
+      top: 1vw;
+      left: 2vw;
+      width: 100%;
+      font-size: small;
+      color: gray;
+    }
+  }
+
+
+  
